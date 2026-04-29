@@ -21,7 +21,7 @@ This project analyzes sales data using Excel to create dashboards and generate i
 ![Dashboard](Dashboard5.png)
 
 ## 🔹 Live Dashboard
-[View Excel Dashboard]()
+[View Excel Dashboard](https://docs.google.com/spreadsheets/d/1VmpDYkvDrKVwL-hb2C3Wz6KphvlgT9OD/edit?usp=drive_link&ouid=105158460104170010841&rtpof=true&sd=true)
 
 ## 🔹 Conclusion
 This project helps in understanding sales patterns and supports better decision-making.
