@@ -13,48 +13,48 @@ The goal of this project is to analyze sales performance, identify trends, and g
 - Support data-driven decision-making
 
 ## Tools & Technologies Used
-Microsoft Excel – Data storage and preprocessing
-MySQL – Data querying and analysis
-Power BI – Interactive dashboard creation
-Tableau – Data visualization and storytelling
+- Microsoft Excel – Data storage and preprocessing
+- MySQL – Data querying and analysis
+- Power BI – Interactive dashboard creation
+- Tableau – Data visualization and storytelling
 
 ## Workflow
-Data Collection (Excel)
-Raw Adventure Works dataset stored in Excel files
-Data Processing (MySQL)
-Data cleaning and transformation
-Writing SQL queries for analysis
-Data Visualization (Power BI & Tableau)
-Building dashboards
-Creating KPIs and insight
+- Data Collection (Excel)
+- Raw Adventure Works dataset stored in Excel files
+- Data Processing (MySQL)
+- Data cleaning and transformation
+- Writing SQL queries for analysis
+- Data Visualization (Power BI & Tableau)
+- Building dashboards
+- Creating KPIs and insight
 
 ## Key Analysis Areas
-Sales Performance
-Profit Analysis
-Customer Insights
-Product Performance
-Regional Analysis
-Time-based Trends
+- Sales Performance
+- Profit Analysis
+- Customer Insights
+- Product Performance
+- Regional Analysis
+- Time-based Trends
 
 ## Key Insights
-Sales trends vary across months and years
-Certain products and categories drive most revenue
-Regional performance differs significantly
-Customer purchasing patterns help identify growth opportunities
+- Sales trends vary across months and years
+- Certain products and categories drive most revenue
+- Regional performance differs significantly
+- Customer purchasing patterns help identify growth opportunities
 
 ## How to Use
-Explore raw data in the Excel folder
-Run SQL queries from the MySQL folder
-Open dashboards in Power BI and Tableau
-Refer to screenshots in the Images folder
+- Explore raw data in the Excel folder
+- Run SQL queries from the MySQL folder
+- Open dashboards in Power BI and Tableau
+- Refer to screenshots in the Images folder
 
 ## Skills Demonstrated
-Data Analysis
-SQL Querying
-Data Visualization
-Dashboard Development
-Business Intelligence
-Data Cleaning & Transformation
+- Data Analysis
+- SQL Querying
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Data Cleaning & Transformation
 
 ## Project Structure
 
