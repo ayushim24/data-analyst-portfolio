@@ -16,11 +16,6 @@ This dashboard analyzes hospitality data to track bookings, revenue, occupancy, 
 ## Dashboard Preview
 ![Hospitality Dashboard](HA6.png)
 
-
-## Live Dashboard
-[View on Tableau Public](https://public.tableau.com/app/profile/piyush.dave4044/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1)
-
-
 ## Tools Used
 - Tableau
 - Data Visualization Techniques
