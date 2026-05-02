@@ -24,7 +24,7 @@ This project analyzes hospitality booking data using Excel Dashboarding techniqu
 
 ##  Dashboard Preview
 
-![Dashboard](HA_1.png)
+![Dashboard](HA10.png)
 
 ##  Key Analysis Performed
 - Weekly revenue trend analysis
