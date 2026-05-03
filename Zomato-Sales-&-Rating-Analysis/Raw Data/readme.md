@@ -3,7 +3,7 @@
 ## Overview
 This folder contains the **raw dataset** used for the Zomato Restaurant Analytics project.
 
-The data is in its original form (before cleaning and transformation) and is used for analysis in MySQL and visualization tools like Power BI / Tableau.
+The data is in its original form (before cleaning and transformation) and is used for analysis in MySQL and visualization tools like  / Tableau.
 
 ## File Details
 - **File Name:** `Zomato Dataset.xlsx`
@@ -46,13 +46,5 @@ Before analysis, the following steps are applied:
 - Serve as the **base dataset** for analysis  
 - Used for:
   - SQL queries (MySQL)  
-  - Dashboard creation (Power BI / Tableau)  
-- Helps in understanding **real-world messy data handling**
-
-## How to Use
-1. Download the dataset file  
-2. Import into:
-   - MySQL for analysis  
-   - Excel for cleaning  
-   - Power BI / Tableau for visualization  
-3. Perform preprocessing before analysis  
+  - Dashboard creation (Tableau)  
+- Helps in understanding **real-world messy data handling** 
