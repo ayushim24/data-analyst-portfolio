@@ -14,16 +14,11 @@ The project uses multiple tools to perform **end-to-end data analysis**, startin
 - Build dashboards for business decision-making 
 
 ## Tools & Technologies Used
-- **Excel** – Data cleaning and preprocessing  
 - **MySQL** – Data analysis using SQL queries  
-- **Power BI** – Interactive dashboards and KPI tracking  
 - **Tableau** – Data visualization and storytelling 
 
-## Project Structure
-
-- [Excel](./Excel) – Data cleaning and preprocessing  
-- [MySQL](./MySQL) – SQL queries and data analysis  
-- [Power BI](./Power%20BI) – Interactive dashboards  
+## Project Structure 
+- [MySQL](./MySQL) – SQL queries and data analysis   
 - [Tableau](./Tableau) – Data visualizations  
 - [Raw Data](./Raw%20Data) – Original dataset 
 
@@ -59,16 +54,7 @@ The project uses multiple tools to perform **end-to-end data analysis**, startin
 - High ratings do not always mean high customer engagement (votes)  
 - Only a limited number of restaurants provide **table booking services**  
 - Online delivery is more common than table booking  
-- Certain cities dominate the restaurant market 
-
-## How to Use
-1. Start with **Raw Data** for understanding dataset  
-2. Use **Excel** for data cleaning and preprocessing  
-3. Run SQL queries in **MySQL** for analysis  
-4. Explore dashboards in:
-   - **Power BI**
-   - **Tableau**  
-5. Use filters and visuals to derive insights  
+- Certain cities dominate the restaurant market  
 
 ## Skills Demonstrated
 - Data Cleaning & Preparation  
