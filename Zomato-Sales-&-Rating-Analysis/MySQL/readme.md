@@ -16,10 +16,15 @@ The analysis covers restaurant distribution, cuisines, pricing trends, customer 
 ## Query Screenshots
 
 ![SQL Queries](Z1.png)  
-![SQL Queries](Z2.png)  
+
+![SQL Queries](Z2.png) 
+
 ![SQL Queries](Z3.png)  
+
 ![SQL Queries](Z4.png)  
+
 ![SQL Queries](Z5.png) 
+
 ![SQL Queries](Z6.png) 
 
 ## Dataset Description
